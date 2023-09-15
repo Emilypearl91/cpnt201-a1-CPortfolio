@@ -124,12 +124,11 @@ margin-left: 6px;
     margin-top: 20px;
 }
 
-@media(max-width:1200px) and (min-width:993px){
+@media {(max-width:1200px) and (min-width:993px)}
     .hero_section .row h1{
         font-size: 58px;
     }
-}
-@media(max-width:993px) and (min-width:763px){
+@media {(max-width:993px) and (min-width:763px)}
     .hero_section .row h1{
         font-size: 42px;
     }
@@ -145,8 +144,8 @@ margin-left: 6px;
     .hero_section .row button{
         font-size: 15px;
     }
-}
-@media(max-width:763px) and (min-width:500px){
+
+@media {(max-width:763px) and (min-width:500px)}
     .hero_section{
         margin:135px 0px ;
     }
@@ -181,12 +180,9 @@ margin-left: 6px;
        height: 43px;
         font-size: 15px;
         text-align: center;
+
     }
-    .hero_section img{
-        width: 60%;
-        margin-top: 20px;
-    }
-}
+
 
 /*About Section*/
 
