@@ -28,11 +28,9 @@ canvas.particles-js-canvas-el{
     z-index: -1000;
     margin: 0px;
 }
-a {
-    color:#232432;
-}
+
 /* navbar */
-.nav_section .navbar-brand{
+.nav_section .navbar-brand {
     font-size: 22px;
 }
 
@@ -187,7 +185,7 @@ margin-left: 6px;
 /*About Section*/
 
 .about_section{
-    background-color: grey;
+    background-color:plum;
     padding: 170px 0px;
 
 }
